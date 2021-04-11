@@ -33,7 +33,7 @@
     color: #ff4321;
   }
   .info{
-    margin-left: 8%;
+    margin-left: 5%;
     margin-top: 15%;
   }
   .info h1{
@@ -65,5 +65,8 @@
   .img-box:hover .my-img{
     left: 54%;
   }
+.img-box img{
+     border-radius:40%;
+}
   
   
